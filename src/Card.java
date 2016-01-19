@@ -1,5 +1,6 @@
 /**
- * Created by djanzen on 1/17/16.
+ * Dustin Janzen
+ * quiz 01.
  */
 public class Card implements Comparable<Card>{
     private Suit suit;

@@ -1,5 +1,6 @@
 /**
- * Created by djanzen on 1/17/16.
+ * Dustin Janzen
+ * quiz 01.
  */
 public enum Suit{
         Clubs, Diamonds, Hearts, Spades;
